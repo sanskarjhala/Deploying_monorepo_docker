@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules
+**/node_modules
+bun.lockb
+
+# Environment variables
+**/.env
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode
+.idea
+
+# Output folders (optional)
+.next
+dist
+build
